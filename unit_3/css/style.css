@@ -6,6 +6,7 @@ body {
 
 .list-centered {
 	margin: 0 auto;
+	list-style-type: none;
 	width: -webkit-fit-content;
     width: -moz-fit-content;
     width: fit-content;
