@@ -3,3 +3,7 @@ body {
 	background-color: #3B74FF ;
 	background-size: cover;
 }
+
+.list-centered {
+	margin: 0 auto;
+}
