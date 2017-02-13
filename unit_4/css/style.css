@@ -1,11 +1,12 @@
 
-@import url(https://fonts.googleapis.com/css?family=Pangolin);
+@import url(https://fonts.googleapis.com/css?family=Pangolin|Lora);
 
 h2 {
 	font-family: 'Pangolin', cursive;
 }
 
 body {
+	font-family: 'Pangolin', serif;
 	text-align: center;
 	background-color: #3B74FF ;
 	background-size: cover;
